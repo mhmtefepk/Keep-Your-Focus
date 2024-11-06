@@ -1,0 +1,7 @@
+body {
+    background-image: url(/tools/background.jpg);
+}
+
+#count{
+    font-size: 40px;
+}
